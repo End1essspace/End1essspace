@@ -1,104 +1,55 @@
 **XCON | RX**
 
-Engineering-focused software developer building structured desktop systems, research pipelines, and practical automation tools.
+Engineering-focused developer building structured desktop systems, research pipelines, and practical automation tools.
 
-I design software as systems — not as isolated features.
-
-
-🧱 **Engineering Philosophy**
-
-- Clean layered architecture
-- Strict separation of concerns
-- Local-first data storage
-- OS-level integration
-- Stability over hype
-- Release discipline over prototypes
-
-I value robustness, maintainability, and predictable behavior over “quick demos”.
+I build software as **systems**, not feature collections.
 
 
-🏗 **Ecosystem**
+**🧱 Philosophy**
 
-### 🖥 X-SERIES — Production Desktop Systems
+* Clean layered architecture
+* Strict separation of concerns
+* Local-first storage
+* Deep OS integration
+* Stability over hype
+* Releases over prototypes
 
-Engineered applications built with strong architectural discipline.
-
-- **XClip** — Windows clipboard manager (Java 17 + JavaFX, SQLite WAL, MSI packaging)
-- **XLedger** — Cross-platform finance manager (.NET 9 + Avalonia, MVVM, SQLite)
-- **XTimer** — Floating Windows taskbar timer (PyQt, tray integration, auto-update)
-
-Focus:
-- Layered design
-- Native OS integration
-- Local data persistence
-- Upgrade-safe packaging
+I prioritize robustness, maintainability, and predictable behavior.
 
 
-🧪 **R-SERIES — Research & Engineering Experiments**
+**🖥 X-SERIES — Production Systems**
 
-Exploratory systems designed to demonstrate engineering thinking.
+Architected desktop applications with strong structure and upgrade discipline.
 
-- **RVisionT** — Two-phase OCR pipeline (Python + OpenCV + Tesseract)
-
-Focus:
-- Stability over brute force
-- Heuristic scoring
-- Search-space reduction
-- Failure control strategies
+* **XClip** — Windows clipboard manager (Java + JavaFX, SQLite WAL, MSI)
+* **XLedger** — Cross-platform finance system (.NET + Avalonia, MVVM)
+* **XTimer** — Floating Windows timer (PyQt, tray, auto-update)
 
 
-🛠 **X-LAB — Automation Utilities**
+**🧪 R-SERIES — Research Engineering**
 
-Small, focused tools solving practical OS-level problems.
+Exploratory systems focused on controlled design.
 
-- screen_hotkey_listener (WinAPI hotkeys + runtime C#)
-- toggle_power (native Windows power scheme switch)
+* **RVisionT** — Two-phase OCR pipeline (OpenCV + Tesseract)
 
+Emphasis on heuristic scoring, search reduction, and failure control.
+
+
+**🛠 X-LAB — Utilities**
+
+Small, focused OS-level tools.
 Minimal. Direct. Functional.
 
 
-🧠 **Technical Stack**
+**🧠 Stack**
 
-Languages:
-- Java
-- C#
-- Python
-- Batch / PowerShell
-
-Desktop:
-- JavaFX
-- Avalonia UI
-- PyQt
-
-Data:
-- SQLite (WAL mode)
-- Local configuration persistence
-
-Windows Integration:
-- System tray
-- Registry autostart
-- WinAPI
-- MSI packaging (jlink + jpackage + WiX)
-
-Computer Vision:
-- OpenCV
-- Tesseract OCR
-- Heuristic pipeline design
+**Java · C# · Python · PowerShell**
+JavaFX · Avalonia · PyQt
+SQLite (WAL)
+WinAPI · Tray · Registry · MSI packaging
 
 
-🎯 **Focus Areas**
+GitHub: [https://github.com/End1essspace](https://github.com/End1essspace)
+Telegram: [https://t.me/End1essspace](https://t.me/End1essspace)
 
-- Desktop system architecture
-- OS-level integration
-- Performance and memory efficiency
-- Packaging & release engineering
-- Engineering-oriented AI pipelines
-
-
-📎 **Links**
-
-GitHub: https://github.com/End1essspace
-Telegram: https://t.me/End1essspace
-
-Software is not just code.
-It is structure, discipline, and long-term thinking.
+Software is structure. Discipline. Longevity.
