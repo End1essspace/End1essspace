@@ -44,7 +44,7 @@ Minimal. Direct. Functional.
 **🧠 Stack**
 
 **Java · C# · Python · PowerShell**
-JavaFX · Avalonia · PyQt
+JavaFX · Avalonia · PyQt · Tkinter · PySide6
 SQLite (WAL)
 WinAPI · Tray · Registry · MSI packaging
 
