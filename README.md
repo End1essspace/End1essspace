@@ -1,55 +1,67 @@
 **XCON | RX**
 
-Engineering-focused developer building structured desktop systems, research pipelines, and practical automation tools.
+Engineering-focused developer building desktop systems, research pipelines, and practical automation tools.
 
-I build software as **systems**, not feature collections.
-
-
-**🧱 Philosophy**
-
-* Clean layered architecture
-* Strict separation of concerns
-* Local-first storage
-* Deep OS integration
-* Stability over hype
-* Releases over prototypes
-
-I prioritize robustness, maintainability, and predictable behavior.
+I build software as systems — with structure, boundaries, and predictable behavior.
 
 
-**🖥 X-SERIES — Production Systems**
+**Focus**
 
-Architected desktop applications with strong structure and upgrade discipline.
+- Desktop applications
+- Local-first software
+- Native OS integration
+- Research engineering
+- Windows automation
+- Release-ready tooling
 
-* **XClip** — Windows clipboard manager (Java + JavaFX, SQLite WAL, MSI)
-* **XLedger** — Cross-platform finance system (.NET + Avalonia, MVVM)
-* **XTimer** — Floating Windows timer (PyQt, tray, auto-update)
 
+**Projects**
+
+**🖥 X-SERIES — Desktop Systems**
+
+- **XClip** — Windows clipboard manager  
+  `Java` · `JavaFX` · `SQLite WAL` · `MSI`
+
+- **XLedger** — Cross-platform finance system  
+  `.NET` · `Avalonia` · `MVVM` · `SQLite`
+
+- **XTimer** — Floating Windows timer  
+  `Python` · `PyQt` · `Tray` · `Auto-update`
 
 **🧪 R-SERIES — Research Engineering**
 
-Exploratory systems focused on controlled design.
-
-* **RVisionT** — Two-phase OCR pipeline (OpenCV + Tesseract)
-
-Emphasis on heuristic scoring, search reduction, and failure control.
-
+- **RVisionT** — Two-phase OCR pipeline  
+  `Python` · `OpenCV` · `Tesseract`
 
 **🛠 X-LAB — Utilities**
 
-Small, focused OS-level tools.
+Small OS-level tools and automation scripts.
+
 Minimal. Direct. Functional.
 
 
-**🧠 Stack**
+**Engineering Taste**
 
-**Java · C# · Python · PowerShell**
-**JavaFX · Avalonia · PyQt · Tkinter · PySide6**
-**SQLite (WAL)**
-**WinAPI · Tray · Registry · MSI packaging**
+- Clean layered architecture
+- Separation of concerns
+- Local-first storage
+- Explicit state
+- Native behavior
+- Stability over hype
+- Releases over prototypes
 
+
+**Stack**
+
+`Java` · `C#` · `Python` · `PowerShell`  
+`JavaFX` · `Avalonia` · `PyQt` · `PySide6`  
+`SQLite` · `WinAPI` · `JNA` · `Registry` · `MSI` · `WiX`
+
+
+**Links**
 
 GitHub: [https://github.com/End1essspace](https://github.com/End1essspace)
 Telegram: [https://t.me/End1essspace](https://t.me/End1essspace)
 
-Software is structure. Discipline. Longevity.
+> Structure is not decoration.  
+> It is what keeps software alive after the prototype dies.
