@@ -14,10 +14,10 @@ Currently developing **CAGE-X**, a Windows tool for controlling outgoing applica
 
 ## Tech Stack
 
-**Languages:** Python, C#, Java, SQL, PowerShell  
-**Desktop:** PySide6, PyQt5, Avalonia UI, JavaFX  
-**Storage:** SQLite, JSON configs, local data storage  
-**Windows/System:** system tray apps, global hotkeys, autostart, WinAPI, WinDivert  
-**Testing/Build:** pytest, .NET CLI, Gradle  
-**Packaging:** PyInstaller, Nuitka, jpackage, WiX, MSI, portable builds  
-**Tools:** Git, GitHub
+- **Languages:** Python, C#, Java, SQL, PowerShell
+- **Desktop:** PySide6, PyQt5, Avalonia UI, JavaFX
+- **Storage:** SQLite, JSON configs, local data storage
+- **Windows/System:** system tray apps, global hotkeys, autostart, WinAPI, WinDivert
+- **Testing/Build:** pytest, .NET CLI, Gradle
+- **Packaging:** PyInstaller, Nuitka, jpackage, WiX, MSI, portable builds
+- **Tools:** Git, GitHub
