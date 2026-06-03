@@ -1,67 +1,24 @@
-**XCON | RX**
+Building useful Windows tools one project at a time.
 
-Engineering-focused developer building desktop systems, research pipelines, and practical automation tools.
+I work on local-first desktop apps, automation utilities, AI coding helpers, filesystem tools, OCR experiments, and endpoint security.
 
-I build software as systems — with structure, boundaries, and predictable behavior.
+My projects are organized into three branches:
 
+X-SERIES — production desktop and system tools
+R-SERIES — research and experimental engineering
+X-LAB — small utilities, scripts, and workflow automation
 
-**Focus**
+Currently focused on CAGE-X — a Windows connection control tool for outgoing app traffic.
 
-- Desktop applications
-- Local-first software
-- Native OS integration
-- Research engineering
-- Windows automation
-- Release-ready tooling
+---
 
+### Tech Stack
 
-**Projects**
-
-**🖥 X-SERIES — Desktop Systems**
-
-- **XClip** — Windows clipboard manager  
-  `Java` · `JavaFX` · `SQLite WAL` · `MSI`
-
-- **XLedger** — Cross-platform finance system  
-  `.NET` · `Avalonia` · `MVVM` · `SQLite`
-
-- **XTimer** — Floating Windows timer  
-  `Python` · `PyQt` · `Tray` · `Auto-update`
-
-**🧪 R-SERIES — Research Engineering**
-
-- **RVisionT** — Two-phase OCR pipeline  
-  `Python` · `OpenCV` · `Tesseract`
-
-**🛠 X-LAB — Utilities**
-
-Small OS-level tools and automation scripts.
-
-Minimal. Direct. Functional.
-
-
-**Engineering Taste**
-
-- Clean layered architecture
-- Separation of concerns
-- Local-first storage
-- Explicit state
-- Native behavior
-- Stability over hype
-- Releases over prototypes
-
-
-**Stack**
-
-`Java` · `C#` · `Python` · `PowerShell`  
-`JavaFX` · `Avalonia` · `PyQt` · `PySide6`  
-`SQLite` · `WinAPI` · `JNA` · `Registry` · `MSI` · `WiX`
-
-
-**Links**
-
-GitHub: [https://github.com/End1essspace](https://github.com/End1essspace)
-Telegram: [https://t.me/End1essspace](https://t.me/End1essspace)
-
-> Structure is not decoration.  
-> It is what keeps software alive after the prototype dies.
+**Languages:** Python, C#, Java, SQL, PowerShell
+**Desktop:** PySide6, PyQt5, Avalonia UI, JavaFX
+**Backend / Storage:** SQLite, local data storage, JSON configuration
+**Windows / System:** system tray apps, global hotkeys, autostart, WinAPI, WinDivert
+**Computer Vision / OCR:** OpenCV, Tesseract OCR
+**Testing / Build:** pytest, .NET CLI, Gradle
+**Packaging:** PyInstaller, Nuitka, jpackage, WiX, MSI, portable builds
+**Tools:** Git, GitHub
